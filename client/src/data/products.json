@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "category": {
+      "id": 0,
+      "title": "Red gravy"
+    },
+    "title": "Kolhapuri gravy",
+    "description":"Here are the steps in one word: Add: Add the gravy to water. Heat: Bring to a boil.Reduce: Reduce heat. Simmer: Simmer for 10-15 minutes. Serve: Serve with your favorite meats, vegetables, or rice."
+  },
+  {
+    "id": 1,
+    "category": {
+      "id": 0,
+      "title": "Red gravy"
+    },
+    "title": "paneer Tikka gravy",
+    "description":"Here are the steps in one word: Add: Add the gravy to water. Heat: Bring to a boil.Reduce: Reduce heat. Simmer: Simmer for 10-15 minutes. Serve: Serve with your favorite meats, vegetables, or rice."
+  },
+
+  {
+    "id": 2,
+    "category": {
+      "id": 2,
+      "title": "white gravy"
+    },
+    "title": "malai gravy",
+    "description":"Here are the steps in one word: Add: Add the gravy to water. Heat: Bring to a boil.Reduce: Reduce heat. Simmer: Simmer for 10-15 minutes. Serve: Serve with your favorite meats, vegetables, or rice."
+  }
+]
